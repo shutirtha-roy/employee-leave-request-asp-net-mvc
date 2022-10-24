@@ -50,7 +50,7 @@ namespace HRIS.Web.Controllers
         {
             LeaveTypeModel leaveTypeModel = new();
             var data = leaveTypeModel.GetData(_unitOfWork);
-            return Json(data.ToList());
+            return Json(data);
         }
     }
 }
