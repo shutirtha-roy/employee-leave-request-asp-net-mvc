@@ -552,3 +552,5 @@ F:\Extra\employee-leave-request-asp-net-mvc\HRIS\HRIS.Web\obj\Debug\net6.0\HRIS.
 F:\Extra\employee-leave-request-asp-net-mvc\HRIS\HRIS.Web\obj\Debug\net6.0\ref\HRIS.Web.dll
 F:\Extra\employee-leave-request-asp-net-mvc\HRIS\HRIS.Web\obj\Debug\net6.0\HRIS.Web.pdb
 F:\Extra\employee-leave-request-asp-net-mvc\HRIS\HRIS.Web\obj\Debug\net6.0\HRIS.Web.genruntimeconfig.cache
+F:\Extra\employee-leave-request-asp-net-mvc\HRIS\HRIS.Web\bin\Debug\net6.0\Autofac.dll
+F:\Extra\employee-leave-request-asp-net-mvc\HRIS\HRIS.Web\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll

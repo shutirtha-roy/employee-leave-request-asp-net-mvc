@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JUFgk/GJEYXzapA+Q3KYTrxaCPaC6P1gb5oUgQmdo3WW4HUTXymnMLL+utBIlmfw54kBQOz0NoSs+gls2TgR1Q==",
+  "dgSpecHash": "jfUWX+mUth3DgO8Q/uazkkFmnNw4kXzfanuLdJ6RiejXOU24TyJyaKH6wf+AnkbCjYYQbV79JVppsRvYpGw3pQ==",
   "success": true,
   "projectFilePath": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\HRIS.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sthir\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\sthir\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\sthir\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sthir\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\sthir\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
