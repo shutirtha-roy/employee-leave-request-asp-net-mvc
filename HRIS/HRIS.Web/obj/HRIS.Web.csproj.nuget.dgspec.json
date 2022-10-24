@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\HRIS.Web.csproj": {}
+    "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\HRIS.Web.csproj": {}
   },
   "projects": {
-    "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\HRIS.Web.csproj": {
+    "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\HRIS.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\HRIS.Web.csproj",
+        "projectUniqueName": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\HRIS.Web.csproj",
         "projectName": "HRIS.Web",
-        "projectPath": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\HRIS.Web.csproj",
+        "projectPath": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\HRIS.Web.csproj",
         "packagesPath": "C:\\Users\\sthir\\.nuget\\packages\\",
-        "outputPath": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\obj\\",
+        "outputPath": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g2uYY3rXH2OCvTQqeL30jXntGq38BLzHcBDg0aonxc8=",
+  "Hash": "7EFm0wNhxUNe8BjA+L0fSPRg+KgXGOJwpEPIn4GDA8U=",
   "Source": "HRIS.Web",
   "BasePath": "_content/HRIS.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "HRIS.Web\\wwwroot",
       "Source": "HRIS.Web",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\sthir\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HRIS.Web.styles.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HRIS.Web.styles.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "HRIS.Web.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HRIS.Web.styles.css"
+      "OriginalItemSpec": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HRIS.Web.styles.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HRIS.Web.bundle.scp.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HRIS.Web.bundle.scp.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "HRIS.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HRIS.Web.bundle.scp.css"
+      "OriginalItemSpec": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HRIS.Web.bundle.scp.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\css\\site.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\css\\site.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\css\\style.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\css\\style.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\favicon.ico",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\favicon.ico",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\js\\employeeLeave.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\js\\employeeLeave.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "js/employeeLeave.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\js\\employeeLeave.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\js\\employeeProfile.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\js\\employeeProfile.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "js/employeeProfile.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\js\\employeeProfile.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\js\\leaveType.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\js\\leaveType.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "js/leaveType.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\js\\leaveType.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\js\\site.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\js\\site.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.min.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.min.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.min.js.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.min.js.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/bootstrap-4.6.2-dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-4.6.2-dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "HRIS.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Development\\ASP .NET\\Repository\\aspdotnet-vin\\Session-13\\HRIS\\HRIS.Web\\wwwroot\\",
+      "ContentRoot": "F:\\Extra\\employee-leave-request-asp-net-mvc\\HRIS\\HRIS.Web\\wwwroot\\",
       "BasePath": "_content/HRIS.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
