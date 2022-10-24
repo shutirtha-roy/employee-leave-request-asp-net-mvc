@@ -1,0 +1,46 @@
+﻿@model LeaveTypeModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="text-center">
+    <h1 class="form-title"> Add Leave Type</h1>
+</div>
+
+<form class="mt-5 mt-5" asp-antiforgery="true" asp-action="Create" asp-controller="LeaveType" method="post">
+    <div class="mx-auto text-center mb-5" style="width: 620px;">
+        <div class="form-group row">
+            <label asp-for="Title"></label>
+            <input type="text" class="form-control" asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary" style="width: 150px">Create</button>
+    </div>>
+</form>
+
+<br /><br /><br /><br />
+
+<table id="tblData" class="table table-bordered table-striped" style="width: 100%">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th></th>
+        </tr>
+    </thead>
+
+        
+</table>
+
+
+@section Scripts 
+{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+    <script src="~/js/leaveType.js"></script>
+
+}
+
