@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5ce245f-8740-4e8d-9ee6-14cb1310eb8f": {
+      "ProjectGuid": "d5ce245f-8740-4e8d-9ee6-14cb1310eb8f",
+      "DisplayName": "HRIS.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
