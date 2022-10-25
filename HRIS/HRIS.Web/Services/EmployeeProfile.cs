@@ -6,8 +6,8 @@ namespace HRIS.Web.Services
 {
     public class EmployeeProfile : IEmployeeProfile
     {
-        private readonly string _connectionString;
-        public readonly static EmployeeProfile _employeeProfile = new EmployeeProfile();
+        private readonly static EmployeeProfile _employeeProfile = new EmployeeProfile();
+        public static EmployeeProfile _employeeProfileInstance => _employeeProfile;
 
         private EmployeeProfile()
         {

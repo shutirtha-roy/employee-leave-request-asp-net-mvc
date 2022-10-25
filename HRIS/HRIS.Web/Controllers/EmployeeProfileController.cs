@@ -15,7 +15,7 @@ namespace HRIS.Web.Controllers
         public EmployeeProfileController(IConfiguration config)
         {
             _connectionString = config.GetConnectionString("DefaultConnection");
-            _employeeProfile = EmployeeProfile._employeeProfile;
+            _employeeProfile = EmployeeProfile._employeeProfileInstance;
         }
 
         public IActionResult Index()
