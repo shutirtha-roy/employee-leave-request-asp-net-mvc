@@ -1,4 +1,6 @@
-﻿using HRIS.Web.Repository;
+﻿using Autofac;
+using HRIS.Web.Entities;
+using HRIS.Web.Repository;
 using HRIS.Web.Services;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using System.ComponentModel.DataAnnotations;
@@ -20,18 +22,31 @@ namespace HRIS.Web.Models
         public DateTime LeaveDate { get; set; }
         public string? Remarks { get; set; }
         private IEmployeeLeaveService _employeeLeaveService;
+        private readonly ILifetimeScope _scope;
 
         public EmployeeLeaveModel()
         {
             _employeeLeaveService = new EmployeeLeaveService();
         }
 
-        public void CreateEmployeeLeave(IUnitOfWork unitOfWork)
+        public void ResolveDependency(ILifetimeScope scope)
         {
-            _employeeLeaveService.CreateLeaveType(this, unitOfWork);
+            _employeeLeaveService = _scope.Resolve<IEmployeeLeaveService>();
         }
 
-        public IEnumerable<EmployeeLeaveModel> GetAll(IUnitOfWork unitOfWork)
+        public void CreateEmployeeLeave(IUnitOfWork unitOfWork)
+        {
+            EmployeeLeaveEntity employeeLeaveEntity = new EmployeeLeaveEntity();
+            employeeLeaveEntity.Id = Id;
+            employeeLeaveEntity.EmployeeId = EmployeeId;
+            employeeLeaveEntity.LeaveTypeId = LeaveTypeId;
+            employeeLeaveEntity.LeaveDate = LeaveDate;
+            employeeLeaveEntity.Remarks = Remarks;
+
+            _employeeLeaveService.CreateLeaveType(employeeLeaveEntity, unitOfWork);
+        }
+
+        public object GetAll(IUnitOfWork unitOfWork)
         {
             return _employeeLeaveService.GetAll(unitOfWork);
         }

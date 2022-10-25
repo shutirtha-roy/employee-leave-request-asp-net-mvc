@@ -1,9 +1,10 @@
 ﻿using HRIS.Web.Data;
+using HRIS.Web.Entities;
 using HRIS.Web.Models;
 
 namespace HRIS.Web.Repository
 {
-    public class LeaveTypeRepository : Repository<LeaveTypeModel>, ILeaveTypeRepository
+    public class LeaveTypeRepository : Repository<LeaveTypeEntity>, ILeaveTypeRepository
     {
         private ApplicationDbContext _db;
 
@@ -12,7 +13,7 @@ namespace HRIS.Web.Repository
             _db = db;
         }
 
-        public void Update(LeaveTypeModel obj)
+        public void Update(LeaveTypeEntity obj)
         {
             _db.LeaveTypes.Update(obj);
         }

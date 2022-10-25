@@ -1,4 +1,5 @@
-﻿using HRIS.Web.Repository;
+﻿using HRIS.Web.Entities;
+using HRIS.Web.Repository;
 using HRIS.Web.Services;
 using System.ComponentModel.DataAnnotations;
 
@@ -19,15 +20,19 @@ namespace HRIS.Web.Models
 
         public void CreateLeaveType(IUnitOfWork unitOfWork)
         {
-            _leaveTypeService.CreateLeaveType(this, unitOfWork);
+            LeaveTypeEntity leaveTypeEntity = new LeaveTypeEntity();
+            leaveTypeEntity.Id = Id;
+            leaveTypeEntity.Title = Title;
+
+            _leaveTypeService.CreateLeaveType(leaveTypeEntity, unitOfWork);
         }
 
-        public IEnumerable<LeaveTypeModel> GetAll(IUnitOfWork unitOfWork)
+        public object GetAll(IUnitOfWork unitOfWork)
         {
             return _leaveTypeService.GetAll(unitOfWork);
         }
 
-        public dynamic GetData(IUnitOfWork unitOfWork)
+        public object GetData(IUnitOfWork unitOfWork)
         {
             return _leaveTypeService.GetData(unitOfWork);
         }

@@ -1,4 +1,5 @@
-﻿using HRIS.Web.Models;
+﻿using HRIS.Web.Entities;
+using HRIS.Web.Models;
 using HRIS.Web.Repository;
 
 namespace HRIS.Web.Services
@@ -11,13 +12,13 @@ namespace HRIS.Web.Services
             
         }
 
-        public void CreateLeaveType(LeaveTypeModel leaveType, IUnitOfWork unitOfWork)
+        public void CreateLeaveType(LeaveTypeEntity leaveType, IUnitOfWork unitOfWork)
         {
             unitOfWork.LeaveType.Add(leaveType);
             unitOfWork.Save();
         }
 
-        public IEnumerable<LeaveTypeModel> GetAll(IUnitOfWork unitOfWork)
+        public IEnumerable<LeaveTypeEntity> GetAll(IUnitOfWork unitOfWork)
         {
             return unitOfWork.LeaveType.GetAll();
         }

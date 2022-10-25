@@ -41,8 +41,8 @@ namespace HRIS.Web.Controllers
         public JsonResult GetAll()
         {
             LeaveTypeModel leaveTypeModel = new();
-            IEnumerable<LeaveTypeModel> objCoverTypeList = leaveTypeModel.GetAll(_unitOfWork);
-            return Json(new { data = objCoverTypeList });
+            var objCoverTypeList = leaveTypeModel.GetAll(_unitOfWork);
+            return Json(new { data = objCoverTypeList });  
         }
 
         [HttpGet]

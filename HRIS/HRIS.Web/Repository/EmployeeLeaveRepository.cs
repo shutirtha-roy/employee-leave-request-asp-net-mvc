@@ -1,9 +1,10 @@
 ﻿using HRIS.Web.Data;
+using HRIS.Web.Entities;
 using HRIS.Web.Models;
 
 namespace HRIS.Web.Repository
 {
-    public class EmployeeLeaveRepository : Repository<EmployeeLeaveModel>, IEmployeeLeaveRepository
+    public class EmployeeLeaveRepository : Repository<EmployeeLeaveEntity>, IEmployeeLeaveRepository
     {
         private ApplicationDbContext _db;
 
@@ -12,7 +13,7 @@ namespace HRIS.Web.Repository
             _db = db;
         }
 
-        public void Update(EmployeeLeaveModel obj)
+        public void Update(EmployeeLeaveEntity obj)
         {
             _db.EmployeeLeaves.Update(obj);
         }

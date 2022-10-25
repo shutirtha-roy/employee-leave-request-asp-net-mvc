@@ -1,4 +1,5 @@
-﻿using HRIS.Web.Models;
+﻿using Autofac;
+using HRIS.Web.Models;
 using HRIS.Web.Repository;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,11 +7,13 @@ namespace HRIS.Web.Controllers
 {
     public class EmployeeLeaveController : Controller
     {
+        private readonly ILifetimeScope _scope;
         private readonly IUnitOfWork _unitOfWork;
 
-        public EmployeeLeaveController(IUnitOfWork unitOfWork)
+        public EmployeeLeaveController(IUnitOfWork unitOfWork, ILifetimeScope scope)
         {
             _unitOfWork = unitOfWork;
+            _scope = scope;
         }
 
         public IActionResult Index()
@@ -44,7 +47,7 @@ namespace HRIS.Web.Controllers
         public ActionResult GetAll()
         {
             EmployeeLeaveModel employeeLeaveModel = new();
-            IEnumerable<EmployeeLeaveModel> objEmployeeLeaveList = employeeLeaveModel.GetAll(_unitOfWork);
+            var objEmployeeLeaveList = employeeLeaveModel.GetAll(_unitOfWork);
             return Json(new { data = objEmployeeLeaveList });
         }
     }

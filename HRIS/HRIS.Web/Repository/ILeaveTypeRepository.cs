@@ -1,9 +1,10 @@
-﻿using HRIS.Web.Models;
+﻿using HRIS.Web.Entities;
+using HRIS.Web.Models;
 
 namespace HRIS.Web.Repository
 {
-    public interface ILeaveTypeRepository : IRepository<LeaveTypeModel>
+    public interface ILeaveTypeRepository : IRepository<LeaveTypeEntity>
     {
-        void Update(LeaveTypeModel obj);
+        void Update(LeaveTypeEntity obj);
     }
 }

@@ -1,4 +1,5 @@
-﻿using HRIS.Web.Models;
+﻿using HRIS.Web.Entities;
+using HRIS.Web.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,7 +12,7 @@ namespace HRIS.Web.Data
         {
         }
 
-        public DbSet<LeaveTypeModel> LeaveTypes { get; set; }
-        public DbSet<EmployeeLeaveModel> EmployeeLeaves { get; set; }
+        public DbSet<LeaveTypeEntity> LeaveTypes { get; set; }
+        public DbSet<EmployeeLeaveEntity> EmployeeLeaves { get; set; }
     }
 }
