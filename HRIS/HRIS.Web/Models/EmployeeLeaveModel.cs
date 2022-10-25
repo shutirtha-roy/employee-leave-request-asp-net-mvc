@@ -22,7 +22,7 @@ namespace HRIS.Web.Models
         public DateTime LeaveDate { get; set; }
         public string? Remarks { get; set; }
         private IEmployeeLeaveService _employeeLeaveService;
-        private readonly ILifetimeScope _scope;
+        private ILifetimeScope _scope;
 
         public EmployeeLeaveModel()
         {
@@ -31,6 +31,7 @@ namespace HRIS.Web.Models
 
         public void ResolveDependency(ILifetimeScope scope)
         {
+            _scope = scope;
             _employeeLeaveService = _scope.Resolve<IEmployeeLeaveService>();
         }
 

@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using HRIS.Web.Models;
 using HRIS.Web.Repository;
 using HRIS.Web.Services;
 
@@ -11,8 +12,10 @@ namespace HRIS.Web
             builder.RegisterType<UnitOfWork>().As<IUnitOfWork>()
                 .InstancePerLifetimeScope();
 
-            //builder.RegisterType<EmployeeProfile>().As<IEmployeeProfile>()
-            //    .InstancePerLifetimeScope();
+            builder.RegisterType<LeaveTypeModel>().AsSelf();
+
+            builder.RegisterType<LeaveTypeService>().As<ILeaveTypeService>()
+                .InstancePerLifetimeScope();
 
             base.Load(builder);
         }

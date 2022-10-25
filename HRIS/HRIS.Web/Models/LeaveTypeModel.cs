@@ -1,4 +1,5 @@
-﻿using HRIS.Web.Entities;
+﻿using Autofac;
+using HRIS.Web.Entities;
 using HRIS.Web.Repository;
 using HRIS.Web.Services;
 using System.ComponentModel.DataAnnotations;
@@ -12,29 +13,35 @@ namespace HRIS.Web.Models
         [Required]
         public string? Title { get; set; }
         private ILeaveTypeService _leaveTypeService;
+        private ILifetimeScope _scope;
 
         public LeaveTypeModel()
         {
-            _leaveTypeService = new LeaveTypeService();
         }
 
-        public void CreateLeaveType(IUnitOfWork unitOfWork)
+        public void ResolveDependency(ILifetimeScope scope)
+        {
+            _scope = scope;
+            _leaveTypeService = _scope.Resolve<ILeaveTypeService>();
+        }
+
+        public void CreateLeaveType()
         {
             LeaveTypeEntity leaveTypeEntity = new LeaveTypeEntity();
             leaveTypeEntity.Id = Id;
             leaveTypeEntity.Title = Title;
 
-            _leaveTypeService.CreateLeaveType(leaveTypeEntity, unitOfWork);
+            _leaveTypeService.CreateLeaveType(leaveTypeEntity);
         }
 
-        public object GetAll(IUnitOfWork unitOfWork)
+        public object GetAll()
         {
-            return _leaveTypeService.GetAll(unitOfWork);
+            return _leaveTypeService.GetAll();
         }
 
-        public object GetData(IUnitOfWork unitOfWork)
+        public object GetData()
         {
-            return _leaveTypeService.GetData(unitOfWork);
+            return _leaveTypeService.GetData();
         }
     }
 }

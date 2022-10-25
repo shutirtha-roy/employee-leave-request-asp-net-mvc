@@ -1,4 +1,5 @@
-﻿using HRIS.Web.Models;
+﻿using Autofac;
+using HRIS.Web.Models;
 using HRIS.Web.Repository;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,10 +8,12 @@ namespace HRIS.Web.Controllers
     public class LeaveTypeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly ILifetimeScope _scope;
 
-        public LeaveTypeController(IUnitOfWork unitOfWork)
+        public LeaveTypeController(IUnitOfWork unitOfWork, ILifetimeScope scope)
         {
             _unitOfWork = unitOfWork;
+            _scope = scope;
         }
 
         public IActionResult Index()
@@ -20,7 +23,7 @@ namespace HRIS.Web.Controllers
 
         public IActionResult Create()
         {
-            LeaveTypeModel leaveTypeModel = new();
+            LeaveTypeModel leaveTypeModel = _scope.Resolve<LeaveTypeModel>();
             return View(leaveTypeModel);
         }
 
@@ -30,7 +33,8 @@ namespace HRIS.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                obj.CreateLeaveType(_unitOfWork);
+                obj.ResolveDependency(_scope);
+                obj.CreateLeaveType();
                 return RedirectToAction("Create");
             }
 
@@ -41,7 +45,9 @@ namespace HRIS.Web.Controllers
         public JsonResult GetAll()
         {
             LeaveTypeModel leaveTypeModel = new();
-            var objCoverTypeList = leaveTypeModel.GetAll(_unitOfWork);
+            leaveTypeModel.ResolveDependency(_scope);
+
+            var objCoverTypeList = leaveTypeModel.GetAll();
             return Json(new { data = objCoverTypeList });  
         }
 
@@ -49,7 +55,9 @@ namespace HRIS.Web.Controllers
         public ActionResult GetData()
         {
             LeaveTypeModel leaveTypeModel = new();
-            var data = leaveTypeModel.GetData(_unitOfWork);
+            leaveTypeModel.ResolveDependency(_scope);
+
+            var data = leaveTypeModel.GetData();
             return Json(data);
         }
     }

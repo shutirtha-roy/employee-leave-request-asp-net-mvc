@@ -6,8 +6,8 @@ namespace HRIS.Web.Services
 {
     public interface ILeaveTypeService
     {
-        void CreateLeaveType(LeaveTypeEntity leaveType, IUnitOfWork unitOfWork);
-        IEnumerable<LeaveTypeEntity> GetAll(IUnitOfWork unitOfWork);
-        dynamic GetData(IUnitOfWork unitOfWork);
+        void CreateLeaveType(LeaveTypeEntity leaveType);
+        IEnumerable<LeaveTypeEntity> GetAll();
+        dynamic GetData();
     }
 }
