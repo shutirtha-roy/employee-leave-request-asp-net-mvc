@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using HRIS.Web.BusinessObjects;
 using HRIS.Web.Entities;
 using HRIS.Web.Repository;
 using HRIS.Web.Services;
@@ -27,11 +28,11 @@ namespace HRIS.Web.Models
 
         public void CreateLeaveType()
         {
-            LeaveTypeEntity leaveTypeEntity = new LeaveTypeEntity();
-            leaveTypeEntity.Id = Id;
-            leaveTypeEntity.Title = Title;
+            LeaveType leaveType = new LeaveType();
+            leaveType.Id = Id;
+            leaveType.Title = Title;
 
-            _leaveTypeService.CreateLeaveType(leaveTypeEntity);
+            _leaveTypeService.CreateLeaveType(leaveType);
         }
 
         public object GetAll()

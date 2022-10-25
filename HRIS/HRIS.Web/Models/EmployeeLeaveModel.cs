@@ -1,5 +1,5 @@
 ﻿using Autofac;
-using HRIS.Web.Entities;
+using HRIS.Web.BusinessObjects;
 using HRIS.Web.Repository;
 using HRIS.Web.Services;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
@@ -42,14 +42,14 @@ namespace HRIS.Web.Models
 
         public void CreateEmployeeLeave()
         {
-            EmployeeLeaveEntity employeeLeaveEntity = new EmployeeLeaveEntity();
-            employeeLeaveEntity.Id = Id;
-            employeeLeaveEntity.EmployeeId = EmployeeId;
-            employeeLeaveEntity.LeaveTypeId = LeaveTypeId;
-            employeeLeaveEntity.LeaveDate = LeaveDate;
-            employeeLeaveEntity.Remarks = Remarks;
+            EmployeeLeave employeeLeaveBO = new EmployeeLeave();
+            employeeLeaveBO.Id = Id;
+            employeeLeaveBO.EmployeeId = EmployeeId;
+            employeeLeaveBO.LeaveTypeId = LeaveTypeId;
+            employeeLeaveBO.LeaveDate = LeaveDate;
+            employeeLeaveBO.Remarks = Remarks;
 
-            _employeeLeaveService.CreateLeaveType(employeeLeaveEntity);
+            _employeeLeaveService.CreateLeaveType(employeeLeaveBO);
         }
 
         public object GetAll()

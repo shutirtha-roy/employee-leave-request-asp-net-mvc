@@ -1,4 +1,5 @@
-﻿using HRIS.Web.Entities;
+﻿using HRIS.Web.BusinessObjects;
+using HRIS.Web.Entities;
 using HRIS.Web.Models;
 using HRIS.Web.Repository;
 
@@ -12,18 +13,22 @@ namespace HRIS.Web.Services
             _unitOfWork = unitOfWork;
         }
 
-        public void CreateLeaveType(LeaveTypeEntity leaveType)
+        public void CreateLeaveType(LeaveType leaveType)
         {
-            _unitOfWork.LeaveType.Add(leaveType);
+            LeaveTypeEntity leaveTypeEntity = new LeaveTypeEntity();
+            leaveTypeEntity.Id = leaveType.Id;
+            leaveTypeEntity.Title = leaveType.Title;
+
+            _unitOfWork.LeaveType.Add(leaveTypeEntity);
             _unitOfWork.Save();
         }
 
-        public IEnumerable<LeaveTypeEntity> GetAll()
+        public object GetAll()
         {
             return _unitOfWork.LeaveType.GetAll();
         }
 
-        public dynamic GetData()
+        public object GetData()
         {
             var enumerator = from value in _unitOfWork.LeaveType.GetAll() select new { value.Id, value.Title };
             return enumerator;
