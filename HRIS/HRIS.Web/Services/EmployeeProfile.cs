@@ -7,24 +7,24 @@ namespace HRIS.Web.Services
     public class EmployeeProfile : IEmployeeProfile
     {
         private readonly string _connectionString;
+        public readonly static EmployeeProfile _employeeProfile = new EmployeeProfile();
 
-        public EmployeeProfile(IConfiguration config)
+        private EmployeeProfile()
         {
-            _connectionString = config.GetConnectionString("DefaultConnection");
         }
 
-        private SqlCommand PrepareCommand(string sqlCommand)
+        private SqlCommand PrepareCommand(string sqlCommand, string connectionString)
         {
-            SqlConnection sqlConnection = new SqlConnection(_connectionString);
+            SqlConnection sqlConnection = new SqlConnection(connectionString);
             SqlCommand command = new SqlCommand(sqlCommand, sqlConnection);
 
             return command;
         }
 
-        public dynamic GetEmployeeProfileData()
+        public dynamic GetEmployeeProfileData(string connectionString)
         {
             string command = "Select * from Hrms_Company_Employee_Profile";
-            using SqlCommand sqlCommand = PrepareCommand(command);
+            using SqlCommand sqlCommand = PrepareCommand(command, connectionString);
 
             if (sqlCommand.Connection.State != System.Data.ConnectionState.Open)
                 sqlCommand.Connection.Open();

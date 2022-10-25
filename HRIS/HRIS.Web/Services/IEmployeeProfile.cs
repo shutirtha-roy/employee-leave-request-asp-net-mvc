@@ -2,6 +2,6 @@
 {
     public interface IEmployeeProfile
     {
-        dynamic GetEmployeeProfileData();
+        dynamic GetEmployeeProfileData(string connectionString);
     }
 }

@@ -11,8 +11,8 @@ namespace HRIS.Web
             builder.RegisterType<UnitOfWork>().As<IUnitOfWork>()
                 .InstancePerLifetimeScope();
 
-            builder.RegisterType<EmployeeProfile>().As<IEmployeeProfile>()
-                .InstancePerLifetimeScope();
+            //builder.RegisterType<EmployeeProfile>().As<IEmployeeProfile>()
+            //    .InstancePerLifetimeScope();
 
             base.Load(builder);
         }

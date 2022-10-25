@@ -12,10 +12,10 @@ namespace HRIS.Web.Controllers
         private readonly IEmployeeProfile _employeeProfile;
         
 
-        public EmployeeProfileController(IConfiguration config, IEmployeeProfile employeeProfile)
+        public EmployeeProfileController(IConfiguration config)
         {
             _connectionString = config.GetConnectionString("DefaultConnection");
-            _employeeProfile = employeeProfile;
+            _employeeProfile = EmployeeProfile._employeeProfile;
         }
 
         public IActionResult Index()
@@ -26,7 +26,7 @@ namespace HRIS.Web.Controllers
         [HttpGet]
         public ActionResult GetEmployeeProfileData()
         {
-            var data = _employeeProfile.GetEmployeeProfileData();
+            var data = _employeeProfile.GetEmployeeProfileData(_connectionString);
             return Json(data);
         }
     }
