@@ -26,7 +26,7 @@ namespace HRIS.Web.Models
 
         public EmployeeLeaveModel()
         {
-            _employeeLeaveService = new EmployeeLeaveService();
+            
         }
 
         public void ResolveDependency(ILifetimeScope scope)
@@ -35,7 +35,12 @@ namespace HRIS.Web.Models
             _employeeLeaveService = _scope.Resolve<IEmployeeLeaveService>();
         }
 
-        public void CreateEmployeeLeave(IUnitOfWork unitOfWork)
+        public Guid GenerateNewId()
+        {
+            return Guid.NewGuid();
+        }
+
+        public void CreateEmployeeLeave()
         {
             EmployeeLeaveEntity employeeLeaveEntity = new EmployeeLeaveEntity();
             employeeLeaveEntity.Id = Id;
@@ -44,12 +49,14 @@ namespace HRIS.Web.Models
             employeeLeaveEntity.LeaveDate = LeaveDate;
             employeeLeaveEntity.Remarks = Remarks;
 
-            _employeeLeaveService.CreateLeaveType(employeeLeaveEntity, unitOfWork);
+            _employeeLeaveService.CreateLeaveType(employeeLeaveEntity);
         }
 
-        public object GetAll(IUnitOfWork unitOfWork)
+        public object GetAll()
         {
-            return _employeeLeaveService.GetAll(unitOfWork);
+            return _employeeLeaveService.GetAll();
         }
+
+
     }
 }

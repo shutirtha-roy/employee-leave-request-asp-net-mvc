@@ -17,6 +17,9 @@ namespace HRIS.Web
             builder.RegisterType<LeaveTypeService>().As<ILeaveTypeService>()
                 .InstancePerLifetimeScope();
 
+            builder.RegisterType<EmployeeLeaveService>().As<IEmployeeLeaveService>()
+                .InstancePerLifetimeScope();
+
             base.Load(builder);
         }
     }

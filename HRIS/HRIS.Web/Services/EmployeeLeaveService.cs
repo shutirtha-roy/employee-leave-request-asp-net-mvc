@@ -6,20 +6,21 @@ namespace HRIS.Web.Services
 {
     public class EmployeeLeaveService : IEmployeeLeaveService
     {
-        public EmployeeLeaveService()
+        private readonly IUnitOfWork _unitOfWork;
+        public EmployeeLeaveService(IUnitOfWork unitOfWork)
         {
-
+            _unitOfWork = unitOfWork;
         }
 
-        public void CreateLeaveType(EmployeeLeaveEntity employeeLeave, IUnitOfWork unitOfWork)
+        public void CreateLeaveType(EmployeeLeaveEntity employeeLeave)
         {
-            unitOfWork.EmployeeLeave.Add(employeeLeave);
-            unitOfWork.Save();
+            _unitOfWork.EmployeeLeave.Add(employeeLeave);
+            _unitOfWork.Save();
         }
 
-        public IEnumerable<EmployeeLeaveEntity> GetAll(IUnitOfWork unitOfWork)
+        public IEnumerable<EmployeeLeaveEntity> GetAll()
         {
-            return unitOfWork.EmployeeLeave.GetAll();
+            return _unitOfWork.EmployeeLeave.GetAll();
         }
     }
 }

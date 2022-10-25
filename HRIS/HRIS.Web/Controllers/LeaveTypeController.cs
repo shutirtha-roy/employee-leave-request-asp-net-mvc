@@ -7,12 +7,10 @@ namespace HRIS.Web.Controllers
 {
     public class LeaveTypeController : Controller
     {
-        private readonly IUnitOfWork _unitOfWork;
         private readonly ILifetimeScope _scope;
 
-        public LeaveTypeController(IUnitOfWork unitOfWork, ILifetimeScope scope)
+        public LeaveTypeController(ILifetimeScope scope)
         {
-            _unitOfWork = unitOfWork;
             _scope = scope;
         }
 

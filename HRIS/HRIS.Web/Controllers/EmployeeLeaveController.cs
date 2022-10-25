@@ -8,11 +8,9 @@ namespace HRIS.Web.Controllers
     public class EmployeeLeaveController : Controller
     {
         private readonly ILifetimeScope _scope;
-        private readonly IUnitOfWork _unitOfWork;
 
-        public EmployeeLeaveController(IUnitOfWork unitOfWork, ILifetimeScope scope)
+        public EmployeeLeaveController(ILifetimeScope scope)
         {
-            _unitOfWork = unitOfWork;
             _scope = scope;
         }
 
@@ -24,7 +22,7 @@ namespace HRIS.Web.Controllers
         public IActionResult Create()
         {
             EmployeeLeaveModel employeeLeaveModel = new();
-            employeeLeaveModel.Id = Guid.NewGuid();
+            employeeLeaveModel.Id = employeeLeaveModel.GenerateNewId();
 
             return View(employeeLeaveModel);
         }
@@ -35,7 +33,8 @@ namespace HRIS.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                obj.CreateEmployeeLeave(_unitOfWork);
+                obj.ResolveDependency(_scope);
+                obj.CreateEmployeeLeave();
                 return RedirectToAction("Create");
             }
 
@@ -47,7 +46,9 @@ namespace HRIS.Web.Controllers
         public ActionResult GetAll()
         {
             EmployeeLeaveModel employeeLeaveModel = new();
-            var objEmployeeLeaveList = employeeLeaveModel.GetAll(_unitOfWork);
+            employeeLeaveModel.ResolveDependency(_scope);
+
+            var objEmployeeLeaveList = employeeLeaveModel.GetAll();
             return Json(new { data = objEmployeeLeaveList });
         }
     }
