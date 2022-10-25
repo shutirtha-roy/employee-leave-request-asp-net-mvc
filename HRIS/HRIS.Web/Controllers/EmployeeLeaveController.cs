@@ -21,7 +21,7 @@ namespace HRIS.Web.Controllers
 
         public IActionResult Create()
         {
-            EmployeeLeaveModel employeeLeaveModel = new();
+            EmployeeLeaveModel employeeLeaveModel = _scope.Resolve<EmployeeLeaveModel>();
             employeeLeaveModel.Id = employeeLeaveModel.GenerateNewId();
 
             return View(employeeLeaveModel);
@@ -45,7 +45,7 @@ namespace HRIS.Web.Controllers
         [HttpGet]
         public ActionResult GetAll()
         {
-            EmployeeLeaveModel employeeLeaveModel = new();
+            EmployeeLeaveModel employeeLeaveModel = _scope.Resolve<EmployeeLeaveModel>();
             employeeLeaveModel.ResolveDependency(_scope);
 
             var objEmployeeLeaveList = employeeLeaveModel.GetAll();

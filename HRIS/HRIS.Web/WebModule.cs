@@ -20,6 +20,8 @@ namespace HRIS.Web
             builder.RegisterType<EmployeeLeaveService>().As<IEmployeeLeaveService>()
                 .InstancePerLifetimeScope();
 
+            builder.RegisterType<EmployeeLeaveModel>().AsSelf();
+
             base.Load(builder);
         }
     }
